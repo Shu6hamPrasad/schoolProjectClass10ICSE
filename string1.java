@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class charchange {
+public class string1 {
     public static String charF(String input){
         int length = input.length();
         String output = "";
