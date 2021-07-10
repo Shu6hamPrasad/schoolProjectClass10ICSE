@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class reverse {
+public class string1 {
     public static String rev(String input){
         String output = "";
         for (int i = (input.length()-1); i >= 0; i--) output = output + input.charAt(i);
